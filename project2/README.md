@@ -14,6 +14,8 @@ The program analyzes data from the following CSV files:
 - `chicago.csv`
 - `new_york_city.csv`
 - `washington.csv`
+The datasets are provided by Udacity and are not included in this repository due to size limitations:
+
 
 Each dataset contains information about individual bike trips, including:
 - Start and end time
